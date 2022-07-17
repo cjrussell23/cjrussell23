@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =======================================================================================================================================
 
 I started coding in 2020 when I switched majors from Math to Computer Science. I graduated with a Bachelor of Science in Applied Computer Science in 2022. I really enjoy playing, designing, and coding games.
-I am currently looking for work! Check out my <a href="https://cjrussell.xyz/assets/charles_russell_2022-07-09.pdf">resume</a>!
+I am currently looking for work so check out my <a href="https://cjrussell.xyz/assets/charles_russell_2022-07-09.pdf">resume</a>!
 
 * 🌍  I'm based in Calgary, Alberta
 * 🖥️  See my portfolio at [cjrussell.xyz](http://cjrussell.xyz)
