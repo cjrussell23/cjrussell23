@@ -5,7 +5,6 @@ I started coding in 2020 when I switched majors from Math to Computer Science. I
 I am currently looking for work so check out my <a href="https://cjrussell.xyz/assets/charles_russell_2022-07-09.pdf">resume</a>!
 
 * 🌍  I'm based in Calgary, Alberta
-* 🖥️  See my portfolio at [cjrussell.xyz](http://cjrussell.xyz)
 * ✉️  You can contact me at [chjrussell@gmail.com](mailto:chjrussell@gmail.com)
 * 🤝  I'm open to collaborating on Games
 
