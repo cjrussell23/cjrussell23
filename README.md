@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Charles Russell
 =======================================================================================================================================
 
-I am currently working at <a href="https://getmoby.com" target="_blank" rel="noreferrer">Moby</a> as their Junior Web Developer. I started coding in 2020 when I switched majors from Math to Computer Science. I graduated with a Bachelor of Science in Applied Computer Science in 2022. I really enjoy playing, designing, and coding games.
+I am currently working at <a href="https://getmoby.com" target="_blank" rel="noreferrer">Moby</a> as their Web Developer. I started coding in 2020 when I switched majors from Math to Computer Science. I graduated with a Bachelor of Science in Applied Computer Science in 2022. I really enjoy playing, designing, and coding games.
 
 * 🌍  I'm based in Calgary, Alberta
 * ✉️  You can contact me at [chjrussell@gmail.com](mailto:chjrussell@gmail.com)
