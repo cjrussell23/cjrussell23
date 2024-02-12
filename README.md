@@ -6,6 +6,7 @@ I am currently working at <a href="https://getmoby.com" target="_blank" rel="nor
 * 🌍  I'm based in Calgary, Alberta
 * ✉️  You can contact me at [chjrussell@gmail.com](mailto:chjrussell@gmail.com)
 * 🤝  I'm open to collaborating on Games
+* 🔗  Check my website out at [chjrussell.com](https://chjrussell.com)
 
 ### Skills
 
