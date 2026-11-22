@@ -1,6 +1,6 @@
 # Hi, I'm Charles
 
-Senior software developer in Calgary, Alberta, working at [Moby](https://getmoby.com). My day-to-day is full-stack TypeScript: Next.js, Postgres, integrations and AI tooling. That work is private, so what's public here is my own projects.
+Software developer in Calgary, Alberta, working at [Moby](https://getmoby.com). My day-to-day is full-stack TypeScript: Next.js, Postgres, integrations and AI tooling. That work is private, so what's public here is my own projects.
 
 ### Projects
 
