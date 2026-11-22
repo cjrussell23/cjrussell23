@@ -1,37 +1,19 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Charles Russell
-=======================================================================================================================================
+# Hi, I'm Charles
 
-I am currently working at <a href="https://getmoby.com" target="_blank" rel="noreferrer">Moby</a> as their Web Developer. I started coding in 2020 when I switched majors from Math to Computer Science. I graduated with a Bachelor of Science in Applied Computer Science in 2022. I really enjoy playing, designing, and coding games.
+Senior software developer in Calgary, Alberta, working at [Moby](https://getmoby.com). My day-to-day is full-stack TypeScript: Next.js, Postgres, integrations and AI tooling. That work is private, so what's public here is my own projects.
 
-* 🌍  I'm based in Calgary, Alberta
-* ✉️  You can contact me at [chjrussell@gmail.com](mailto:chjrussell@gmail.com)
-* 🤝  I'm open to collaborating on Games
-* 🔗  Check my website out at [chjrussell.com](https://chjrussell.com)
+### Projects
 
-### Skills
+- **[job-ai](https://github.com/cjrussell23/job-ai)**: a self-hosted job search app. It finds jobs every morning, scores each one twice (fit to what you want, fit to what you've done), and drafts resumes and cover letters only from your own profile. Next.js, Postgres, pg-boss, the Vercel AI SDK, a Python JobSpy service and Playwright, on Docker Compose.
+- **[woodworking-blog](https://github.com/cjrussell23/woodworking-blog)**: a blog for my dad's woodworking on Payload CMS 3 and Next.js 15, with photo galleries, YouTube embeds and a media manager that checks usage before deleting. [Live site](https://robert-blog.vercel.app/home-page)
+- **[portfolio-2025](https://github.com/cjrussell23/portfolio-2025)**: my site, [chjrussell.com](https://chjrussell.com).
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+### Tools I use most
 
+TypeScript · React · Next.js · Node.js · PostgreSQL · Drizzle · Tailwind CSS · Python · Docker · Vercel · GitHub Actions
 
-### Socials
+### Background
 
-<p align="left"> <a href="https://discord.com/users/CJR#2090" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/cjrussell23" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/charles-russell-671306244/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+B.Sc. in Applied Computer Science (2022).
 
+[chjrussell.com](https://chjrussell.com) · [LinkedIn](https://www.linkedin.com/in/chjrussell/) · [chjrussell@gmail.com](mailto:chjrussell@gmail.com)
